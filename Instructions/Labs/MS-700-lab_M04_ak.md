@@ -379,9 +379,9 @@ In this task, you will delete one of the teams created in the previous lesson an
 
 9. In the **Enter password** dialog box, enter the password delivered by your training provider and select **Sign in**.
 
-10. In the **Microsoft Azure portal**, below the **Azure services** section, select **More services**.
+10. In the **Microsoft Azure portal**, in the search field type  **Azure Active Directory** **More services**.
 
-11. On the **All services** page, select **Identity** from the left side navigation pane and **Azure Active Directory** from the main window.
+11. Under the **Services** section select **Azure Active Directory**.
 
 12. On the **Contoso | Overview** page, select **Groups** from the left side pane.
 
